@@ -1,6 +1,6 @@
 this portfolio will be an aggregation of fluff projects i have / will work(ed) on.
 
-some pad projects to work on:
+projects to pad the portfolio:
   1.) javascript image scraper - download a specified URL's jpegs + pngs
   2.) python smart house simulator
   3.) python IMDB API - movie suggestions
